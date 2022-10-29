@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring trainee software engineer
 ----------------------------------
 
-I am a healthcare worker aspiring to become software engineer. Around two months ago I decided to start learning coding which I find fascinating. I joined @zero-to-mastery platform in order to explore the world of programming.
+I am a healthcare worker aspiring to become software engineer. Around two months ago I decided to start learning coding which I find fascinating. I joined ZerotoMastery platform in order to explore the world of programming.
 
 * 🌍  I'm based in Portsmouth
 * ✉️  You can contact me at [judyzisch@gmail.com](mailto:judyzisch@gmail.com)
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Open Source projects including HTML, CSS and basic JavaScript
+* 🧠  I'm learning CSS, HTML5 and JavaScript
+* 🤝  I'm open to collaborating on Open Source projects including HTML5, CSS and basic JavaScript
 * ⚡  I am a food lover
 
 <a href="https://www.github.com/judy95" target="_blank" rel="noreferrer"><img
