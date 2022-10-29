@@ -1,5 +1,4 @@
-Hi !
-[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Judyta Zisch
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Judyta Zisch
 ====================================================================================================================================
 
 Aspiring trainee software engineer
@@ -9,7 +8,7 @@ Hi! My name is Judyta. I am a healthcare worker aspiring to become software engi
 
 * 🌍  I'm based in Portsmouth
 * ✉️  You can contact me at [judyzisch@gmail.com](mailto:judyzisch@gmail.com)
-* 🧠  I'm learning JavaScript, CSS and HTML5
+* 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Open Source projects including HTML, CSS and basic JavaScript
 * ⚡  I am a food lover
 
