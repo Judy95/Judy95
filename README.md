@@ -13,7 +13,7 @@ I am a healthcare worker aspiring to become software engineer. Around two months
 * ⚡  I am a food lover
 
 <a href="https://www.github.com/judy95" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/judy95?logo=github&style=for-the-badge&color=0f172a&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/judy95?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -33,10 +33,10 @@ src="https://img.shields.io/github/followers/judy95?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/judy95"><img src="https://github-readme-stats.vercel.app/api?username=judy95&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0f172a&icon_color=0f172a&bg_color=1c1917&hide_border=true&show_icons=true" alt="judy95's GitHub stats" /></a>
+<a href="http://www.github.com/judy95"><img src="https://github-readme-stats.vercel.app/api?username=judy95&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="judy95's GitHub stats" /></a>
 
-<a href="http://www.github.com/judy95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=judy95&stroke=0f172a&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=0f172a&currStreakLabel=ffffff&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+<a href="http://www.github.com/judy95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=judy95&stroke=ef4444&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ef4444&currStreakLabel=ffffff&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<a href="http://www.github.com/judy95"><img src="https://activity-graph.herokuapp.com/graph?username=judy95&bg_color=1c1917&color=0f172a&line=0f172a&point=0f172a&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/judy95"><img src="https://activity-graph.herokuapp.com/graph?username=judy95&bg_color=1c1917&color=ef4444&line=ef4444&point=ef4444&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/judy95" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judy95&langs_count=10&title_color=ffffff&text_color=0f172a&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/judy95" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judy95&langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
