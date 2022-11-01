@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring trainee software engineer
 ----------------------------------
 
-I am a healthcare worker aspiring to become software engineer. Around two months ago I decided to start learning coding which I find fascinating. I joined ZeroToMastery platform in order to explore the world of programming.
+I am a healthcare worker aspiring to become software engineer. Around two months ago I decided to start learning coding which I find fascinating. I joined ZeroToMastery platform in order to explore the world of programming
 
 * 🌍  I'm based in Portsmouth
 * ✉️  You can contact me at [judyzisch@gmail.com](mailto:judyzisch@gmail.com)
