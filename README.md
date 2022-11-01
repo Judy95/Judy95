@@ -9,7 +9,7 @@ I am a healthcare worker aspiring to become software engineer. Around two months
 * 🌍  I'm based in Portsmouth
 * ✉️  You can contact me at [judyzisch@gmail.com](mailto:judyzisch@gmail.com)
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on Open Source projects including HTML, CSS and basic JavaScript
+* 🤝  I'm open to collaborating on Open Source projects including HTML, CSS and basic JavaScrip
 * ⚡  I am a food lover
 
 <a href="https://www.github.com/judy95" target="_blank" rel="noreferrer"><img
