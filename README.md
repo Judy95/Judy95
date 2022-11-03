@@ -10,7 +10,7 @@ I am a healthcare worker aspiring to become software engineer. Around two months
 * ✉️  You can contact me at [judyzisch@gmail.com](mailto:judyzisch@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Open Source projects including HTML, CSS and JavaScript
-* ⚡  I am a food lover
+* ⚡  I am a food love
 
 <a href="https://www.github.com/judy95" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/judy95?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
