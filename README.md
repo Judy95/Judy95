@@ -9,7 +9,7 @@ I am a healthcare worker aspiring to become software engineer. In October this y
 * 🌍  I'm based in Portsmouth
 * ✉️  You can contact me at [judyzisch@gmail.com](mailto:judyzisch@gmail.com)
 * 🧠  I'm learning JavaScript, CSS and HTML
-* 🤝  I'm open to collaborating on Open Source projects including HTML, CSS and JavaScrip
+* 🤝  I'm open to collaborating on Open Source projects including HTML, CSS and JavaScript
 * ⚡  I am a food lover
 
 <img src="https://camo.githubusercontent.com/cf8a75fb927c349a24605db55438825d3e0df16b09e11b3bea0fd8361ff33988/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f423677645a454450325458526b4138336f352f67697068792e676966" alt="Developer" data-canonical-src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
