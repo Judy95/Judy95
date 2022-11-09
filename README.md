@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Judyta Zisch
 ====================================================================================================================================
 
-Aspiring software enginee
+Aspiring software engineer
 ----------------------------------
 
 I am a healthcare worker aspiring to become software engineer. In October this year I decided to start learning how to code which I find fascinating. I joined ZeroToMastery platform in order to explore the world of programming.
