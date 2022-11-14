@@ -6,7 +6,7 @@ Aspiring software engineer
 
 I am a healthcare worker aspiring to become software engineer. In October this year I decided to start learning how to code which I find fascinating. I joined ZeroToMastery platform in order to explore the world of programming.
 
-* 🌍  I'm based in Portsmout
+* 🌍  I'm based in Portsmouth
 * ✉️  You can contact me at [judyzisch@gmail.com](mailto:judyzisch@gmail.com)
 * 🧠  I'm learning JavaScript, CSS and HTML
 * 🤝  I'm open to collaborating on Open Source projects including HTML, CSS and JavaScript
